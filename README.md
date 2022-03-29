@@ -11,3 +11,5 @@ o numero de comparacoes e trocas do respectivo método de ordenacao.
 * Insertion Sort
 * Merge Sort
 * Quick Sort
+
+Relat¢rio.pdf has a complete analysis about the Sorting Methods Written by Me ( Lucas G. de Queiroz ) and Weber Veloso Mourão
