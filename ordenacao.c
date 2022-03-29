@@ -1,5 +1,5 @@
 //Programa: metodos_ordenacao.c
-//Programadores: Lucas Gonzalez de Queiroz e Weber Veloso Mourao
+//Programadores: Lucas Gonzalez de Queiroz
 //Diálogo:Este algoritmos verifica um vetor com números aleatorios, imprime ordenadamente em cada método respectivo de ordenacao, assim como também imprime
 // o numero de comparacoes e trocas do respectivo método de ordenacao.
 //Métodos de seleção para ordenação de vetores
